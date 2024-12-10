@@ -16,7 +16,7 @@ as well as the python script in `src/python` directory
 - Modkit version 0.2.2
 
 
-## Read calling and processing
+## Calling and processing of reads
 
 The nextflow pipeline should be executed in the next order and you should provide your `yaml` file
 containing your own parameters. The template of the config parameters can be found inside every
